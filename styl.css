@@ -3,7 +3,7 @@ body    {
 }
 @font-face {
     font-family: Poppins;
-    src: url(./Poppins-Medium.ttf);
+    src: url(Poppins-Medium.ttf);
     font-style: large;
 }
 .centrovany {
